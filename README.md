@@ -13,3 +13,7 @@ Come to this session to get a new perspective on time itself and the value your 
 Short Form
 ----------------------------
 As a developer today, you are living in a unique era of history. With only a laptop, notepad, and a cup of coffee you can craft a magical reality from the ether of dreams. Sadly, despite wielding this distinctive talent, many developers allow the value of the work they create to be judged by century old methods designed to measure the efficiency of manufacturing gun powder. This talk is a call to arms presented by a recovering workaholic, who throughout his recovery has been searching for a better way. It will explore the concept of value, trace the history of using time as a metric, discuss the effect time tracking has on humans, and propose a couple of potentially better ways. Come join the revolution and change your perspective on the value your work adds to the world.
+
+Elevator Pitch
+----------------------------
+Using time to measure the "value" of creatives' creation is outdated and dangerous. This talk examines the history of time tracking, the effects it has on humans, and how we can do better.
